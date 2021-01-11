@@ -4,6 +4,6 @@ This repository contains informations about a type of wine called Vinho Verde.
 - White Wine Classificator is a equivalent Machine Learning model that evaluates white wine instead of red wine. It achieves around 65% accuracy predicting the evaluation given by specialists.
 
 References about this dataset can be found at:
-P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
-Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+- P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
+- Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
